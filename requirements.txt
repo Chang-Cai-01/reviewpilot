@@ -1,6 +1,6 @@
-streamlit==1.39.0
-anthropic>=0.39.0
-pandas==2.2.3
-python-dotenv==1.0.1
-plotly==5.24.1
+streamlit
+anthropic
+pandas
+python-dotenv
+plotly
 openai==1.54.0
